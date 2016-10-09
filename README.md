@@ -5,4 +5,4 @@
 * No Absen : 12
 * NISN : 1433.070
 
-![Screenshot 1] [http://i.imgur.com/Cmio55L.png]
+![Screenshot 1] (http://i.imgur.com/Cmio55L.png)
